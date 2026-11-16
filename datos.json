@@ -1,0 +1,362 @@
+[
+  {
+    "numero": 1,
+    "area": "Educación",
+    "oficina": "Oficina de Becas",
+    "encargado": "Lilian Inostroza",
+    "contacto": "+56 9 9452 9787 / 45 2 889 680 / becas@munivillarrica.cl",
+    "horario": "Lunes a jueves: 09:00 a 14:00 hrs y de 15:00 a 16:30 hrs. Viernes: 09:00 a 14:00 hrs",
+    "direccion": "Pedro Montt #876, 2do piso"
+  },
+  {
+    "numero": 2,
+    "area": "Educación",
+    "oficina": "Valle Verde",
+    "encargado": "Pamela Romero",
+    "contacto": "452320505 / +56 9 6577 7245 / jevelazquez@hotmail.com",
+    "horario": "Atención Online",
+    "direccion": "General Carrera #101, Temuco"
+  },
+  {
+    "numero": 3,
+    "area": "Educación",
+    "oficina": "Oficina de Salud Escolar",
+    "encargado": "Elizabeth Fuentes",
+    "contacto": "Anexo: 45 2 889 659 / salud.es.vil@gmail.com",
+    "horario": "Lunes a Viernes: 9:00 a 13:00 hrs",
+    "direccion": "Pedro León Gallo #817"
+  },
+  {
+    "numero": 4,
+    "area": "Educación",
+    "oficina": "DAEM (Depto. Educación)",
+    "encargado": "Javier Nahuelcheo",
+    "contacto": "+56 9 985281871 / informacionesdaem@educacionvillarrica.cl",
+    "horario": "Lunes a jueves: 08:30 a 14:00 hrs. y de 15:00 a 18:00 hrs. Viernes: 08:30 a 14:00 hrs",
+    "direccion": "General Basilio Urrutia #375"
+  },
+  {
+    "numero": 5,
+    "area": "Vivienda",
+    "oficina": "Departamento de Vivienda",
+    "encargado": "Sandra Sarabia",
+    "contacto": "(45) 2 206 605 / vivienda@munivillarrica.cl",
+    "horario": "Lunes a Viernes de 8:00 a 13:00 hrs",
+    "direccion": "Pedro Montt #876, 1er piso"
+  },
+  {
+    "numero": 6,
+    "area": "Vivienda",
+    "oficina": "EGIS Municipal",
+    "encargado": "Juan Pablo Dinamarca",
+    "contacto": "+56 45 288 9660 / ep@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 8:00 a 13:00 hrs",
+    "direccion": "Pedro de Valdivia #810"
+  },
+  {
+    "numero": 7,
+    "area": "OMJ",
+    "oficina": "Oficina Municipal de Jóvenes",
+    "encargado": "Fernando Cerda",
+    "contacto": "+56 45 2415814 / omj@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 8:30 a 17:00 hrs",
+    "direccion": "Andrés Bello #457"
+  },
+  {
+    "numero": 8,
+    "area": "Infancia",
+    "oficina": "Oficina de la Niñez (OLN)",
+    "encargado": "Claudia Cretton",
+    "contacto": "+56 9 4992 9189 / olnvillarrica@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 8:00 a 14:00 hrs",
+    "direccion": "Pedro de Valdivia #300 (frente al Juzgado de Garantía)"
+  },
+  {
+    "numero": 9,
+    "area": "Salud",
+    "oficina": "Departamento de Salud Municipal",
+    "encargado": "Jimena Becerra García",
+    "contacto": "452415112 - 452415113 - dsmvillarrica@gmail.com",
+    "horario": "Lunes a Viernes: 8:00 a 13:00 hrs",
+    "direccion": "Valentín Letelier #415"
+  },
+  {
+    "numero": 10,
+    "area": "Salud",
+    "oficina": "CESFAM Los Volcanes",
+    "encargado": "Miriam Zamora",
+    "contacto": "+56 45 241 3310 / jefesome.cesfamlosvolcanes@saludvillarrica.cl",
+    "horario": "Lunes a Viernes: 08:00 a 17:00 hrs.",
+    "direccion": "Segunda Faja al Volcán 800"
+  },
+  {
+    "numero": 11,
+    "area": "Salud",
+    "oficina": "CECOSF 21 de Mayo",
+    "encargado": "Romina Toro",
+    "contacto": "45 255 8075 / 45 255 8072",
+    "horario": "Lunes a Viernes: 08:00 a 17:00 hrs",
+    "direccion": "Sargento Aldea #970, Villarrica"
+  },
+  {
+    "numero": 12,
+    "area": "Salud",
+    "oficina": "CECOSF Ñancul",
+    "encargado": "Carolina Llanquinao",
+    "contacto": "+56 45 274 7592 / carolinallanquinao1878@gmail.com",
+    "horario": "Lunes a Viernes, de 08:00 a 16:45 hrs.",
+    "direccion": "Calle Juan Contreras, Ñancul"
+  },
+  {
+    "numero": 13,
+    "area": "Salud",
+    "oficina": "CESFAM Licán Ray",
+    "encargado": "Jhonatan Spuler",
+    "contacto": "+56 9 9023 9084",
+    "horario": "Lunes a Viernes: 08:00 a 22:00 hrs",
+    "direccion": "Cacique Marichanquín #205, Licán Ray"
+  },
+  {
+    "numero": 14,
+    "area": "Inclusión y Protección Social",
+    "oficina": "Unidad de Discapacidad",
+    "encargado": "Carolina Delgado",
+    "contacto": "+56 9 7141 1044 / 45 2 889 604 / discapacidad@munivillarrica.cl",
+    "horario": "Lunes a viernes de 08:30 a 13:30 horas.",
+    "direccion": "Pedro de Valdivia #398"
+  },
+  {
+    "numero": 15,
+    "area": "Inclusión y Protección Social",
+    "oficina": "Programa Red Local de Apoyos y Cuidados",
+    "encargado": "Valeria Jara",
+    "contacto": "",
+    "horario": "Lunes a viernes: 08:00 a 13:30 horas.",
+    "direccion": "Pedro de Valdivia #398"
+  },
+  {
+    "numero": 16,
+    "area": "Inclusión y Protección Social",
+    "oficina": "Chile Atiende",
+    "encargado": "Iván Orrego",
+    "contacto": "FONO: 452655267 / www.Chileatiende.cl",
+    "horario": "Lunes a Viernes 08:30 a 13:30",
+    "direccion": "Francisco Bilbao N°795"
+  },
+  {
+    "numero": 17,
+    "area": "Inclusión y Protección Social",
+    "oficina": "Ventanilla Única",
+    "encargado": "Elizabeth Escobar",
+    "contacto": "452889670 / +569 87996722 / ventanillaunica@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 8:30 a 13:30 horas",
+    "direccion": "Pedro Montt Nº 530"
+  },
+  {
+    "numero": 18,
+    "area": "Inclusión y Protección Social",
+    "oficina": "Departamento Organizaciones Comunitarias",
+    "encargado": "Andrea Mercado",
+    "contacto": "452889661 / oocc@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 08:30 a 13:30 hrs",
+    "direccion": "Pedro de Valdivia #810"
+  },
+  {
+    "numero": 19,
+    "area": "Inclusión y Protección Social",
+    "oficina": "Programa de Desarrollo Rural",
+    "encargado": "Antonio Melgarejo",
+    "contacto": "(45) 2410388 / jefeddr@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 08:30 a 14:00 horas",
+    "direccion": "Pedro de Valdivia #320 Primer Piso"
+  },
+  {
+    "numero": 20,
+    "area": "Inclusión y Protección Social",
+    "oficina": "Oficina Municipal de Información o de Intermediación Laboral (OMIL)",
+    "encargado": "Sandra Farías",
+    "contacto": "(45) 2415814 / encargadaomil@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 08:30 a 13:30",
+    "direccion": "Korner N° 335"
+  },
+  {
+    "numero": 21,
+    "area": "Inclusión y Protección Social",
+    "oficina": "Programa Mujer Trabajadora y Jefa de Hogar",
+    "encargado": "Joselyn Ortega",
+    "contacto": "(45) 2413230",
+    "horario": "Lunes a Viernes: 08:30 a 13:00 hrs. y de 14:30 a 16:30 hrs",
+    "direccion": "General Urrutia #499 - Urrutia esquina Matta"
+  },
+  {
+    "numero": 22,
+    "area": "Inclusión y Protección Social",
+    "oficina": "Departamento Asistencia Social",
+    "encargado": "Paula Lagos",
+    "contacto": "(45) 2 889 651 / Paula.lagos.flores@gmail.com",
+    "horario": "Lunes a Viernes: 8:30 a 13:30 hrs",
+    "direccion": "Pedro Montt #876"
+  },
+  {
+    "numero": 23,
+    "area": "Capacitación Laboral",
+    "oficina": "Centro Empresarial",
+    "encargado": "Waldemar Trapp",
+    "contacto": "961072044 / ceevillarrica@gmail.com",
+    "horario": "Lunes a Viernes: 08:15 a 14:00 hrs",
+    "direccion": "General Urrutia #499 - Urrutia esquina Matta"
+  },
+  {
+    "numero": 24,
+    "area": "Capacitación Laboral",
+    "oficina": "Centro de Negocios",
+    "encargado": "Paul Margot Castillo",
+    "contacto": "(45) 274 7550 / centro.villarrica@centrossercotec.cl",
+    "horario": "Lunes a Viernes: 08:00 a 13:00 hrs",
+    "direccion": "General Korner N°141"
+  },
+  {
+    "numero": 25,
+    "area": "Deportes",
+    "oficina": "Gimnasio Carlos Martínez",
+    "encargado": "Cristian Espinoza",
+    "contacto": "(45) 2 889 602",
+    "horario": "Lunes a Viernes: 08:00 a 12:00 hrs. y 15:00 a 21:00 hrs",
+    "direccion": "Av. Juan Antonio Ríos 715"
+  },
+  {
+    "numero": 26,
+    "area": "Deportes",
+    "oficina": "Departamento Deportes y Recreación",
+    "encargado": "Crístian Espinoza",
+    "contacto": "(45) 2411729 / deportes@munivillarrica.cl",
+    "horario": "Lunes y viernes: 08:30 a 20:00 hrs. Martes, miércoles y jueves: 08:00 a 19:00 hrs",
+    "direccion": "Avenida Presidente Ríos 715"
+  },
+  {
+    "numero": 27,
+    "area": "Comunidad Indígena",
+    "oficina": "Oficina de Asuntos Indígenas",
+    "encargado": "Alejandra Rivas Cerda",
+    "contacto": "(45) 2206643 / asuntosindigenas@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 08:00 a 13:30 hrs.",
+    "direccion": "Andrés Bello N°457 oficina 1"
+  },
+  {
+    "numero": 28,
+    "area": "Persona Mayor",
+    "oficina": "Programa Persona Mayor",
+    "encargado": "Andrea Mercado",
+    "contacto": "+56 9 9325 5448",
+    "horario": "Lunes a Viernes",
+    "direccion": "Vicente Reyes s/n"
+  },
+  {
+    "numero": 29,
+    "area": "Persona Mayor",
+    "oficina": "Fundación Esfera Sur",
+    "encargado": "Brisa Morandi",
+    "contacto": "947796774 / contacto@esferasur.cl",
+    "horario": "Según cartelera cultural y talleres específicos",
+    "direccion": "José Miguel Carrera 620"
+  },
+  {
+    "numero": 30,
+    "area": "Persona Mayor",
+    "oficina": "Liquen Centro Cultural",
+    "encargado": "Sebastián Henríquez",
+    "contacto": "56974936797",
+    "horario": "Lunes: 15:00 a 19:00 hrs. / Martes a sábado: 09:00 a 14:00 hrs. y de 15:00 a 19:00 hrs.",
+    "direccion": "Arturo Prat 880"
+  },
+  {
+    "numero": 31,
+    "area": "Persona Mayor",
+    "oficina": "Programa MAS AMA",
+    "encargado": "Iris Medina",
+    "contacto": "56993255448 / respaldomasama@gmail.com",
+    "horario": "Funciona de manera descentralizada a través de los CESFAM y sedes comunitarias",
+    "direccion": "Matta #825 (Coordinado vía Depto. Salud)"
+  },
+  {
+    "numero": 32,
+    "area": "Persona Mayor",
+    "oficina": "Centro Diurno Comunitario del Adulto Mayor (CEDIAM)",
+    "encargado": "Solange Mercado",
+    "contacto": "983487294 / cediam.dhvillarrica@gmail.com",
+    "horario": "Lunes a Viernes: 08:30 a 17:00 hrs",
+    "direccion": "Avenida Estación s/n (esquina con Calle Juan Contreras)"
+  },
+  {
+    "numero": 33,
+    "area": "Medio Ambiente y Gestión de Riesgos",
+    "oficina": "Apoyo a la Seguridad Alimentaria",
+    "encargado": "Pamela Nahuelpán",
+    "contacto": "994297307 / profesionalddr2@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 08:30 a 14:00",
+    "direccion": "Sin dirección fija"
+  },
+  {
+    "numero": 34,
+    "area": "Medio Ambiente y Gestión de Riesgos",
+    "oficina": "Huertos Urbanos",
+    "encargado": "Pamela Nahuelpán",
+    "contacto": "994297307",
+    "horario": "Lunes a Viernes: 08:30 a 14:00",
+    "direccion": "Sectores de Villarrica"
+  },
+  {
+    "numero": 35,
+    "area": "Medio Ambiente y Gestión de Riesgos",
+    "oficina": "Eficiencia Hídrica",
+    "encargado": "Karla Cayuñir",
+    "contacto": "569661988",
+    "horario": "Lunes a Viernes: 08:30 a 14:00",
+    "direccion": "Pedro de Valdivia #030"
+  },
+  {
+    "numero": 36,
+    "area": "Medio Ambiente y Gestión de Riesgos",
+    "oficina": "Déficit Hídrico",
+    "encargado": "M° Francisca Miranda",
+    "contacto": "+56971357402 / emergenciahidrica@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 08:30 a 14:00",
+    "direccion": "General Korner #580"
+  },
+  {
+    "numero": 37,
+    "area": "Medio Ambiente y Gestión de Riesgos",
+    "oficina": "Aseo y Ornato (Reciclaje)",
+    "encargado": "Francisco Quesada",
+    "contacto": "452889518 / directordmao@munivillarrica.cl",
+    "horario": "Lunes a Viernes: 08:30 a 13:30 hrs",
+    "direccion": "Pedro Montt #530"
+  },
+  {
+    "numero": 38,
+    "area": "Medio Ambiente y Gestión de Riesgos",
+    "oficina": "Gestión del Riesgo de Desastres",
+    "encargado": "Sergio Manríquez",
+    "contacto": "emergencias@munivillarrica.cl / jefegestionriesgo@munivillarrica.cl / +56958026520",
+    "horario": "Lunes a Viernes: 08:30 a 14:00",
+    "direccion": "General Korner #580"
+  },
+  {
+    "numero": 39,
+    "area": "Medio Ambiente y Gestión de Riesgos",
+    "oficina": "Veterinaria Municipal",
+    "encargado": "Francisco Quesada",
+    "contacto": "+56 45 288 9542",
+    "horario": "Lunes a Viernes: 8:30 a 17:00 hrs",
+    "direccion": "Presidente Ríos N° 1207 (Av. Juan Antonio Ríos 1207)"
+  },
+  {
+    "numero": 40,
+    "area": "Medio Ambiente y Gestión de Riesgos",
+    "oficina": "Oficina de Seguridad Pública",
+    "encargado": "Marcela Solano",
+    "contacto": "953704106 / seguridadpublica@munivillarrica.cl",
+    "horario": "Lunes a viernes: 07:00 a 13:00 hrs / Sábados: 08:00 a 11:00 hrs",
+    "direccion": "Anfión Muñoz #326"
+  }
+]
